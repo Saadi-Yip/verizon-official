@@ -21,7 +21,7 @@ const NavSection = ({ nav }) => {
                             <Link href="pages/disclaimer">Disclaimer</Link>
                         </li>
                         <li><Link href="pages/privacy-policy">Privacy-policy</Link></li>
-                        <li><Link href="pages/terms-of-services">Terms-Of-Services</Link></li>
+                        <li><Link href="pages/terms-of-service">Terms-Of-Services</Link></li>
                     </ul>
                 </li>
                 

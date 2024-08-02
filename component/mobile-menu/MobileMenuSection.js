@@ -57,7 +57,7 @@ const MobileMenuSection = () => {
                   <Link href="/pages/privacy-policy" className="nf-sub-nav-link">Privacy-policy</Link>
                 </li>
                 <li>
-                  <Link href="/pages/terms-of-services" className="nf-nav-link">Terms Of Service</Link>
+                  <Link href="/pages/terms-of-service" className="nf-nav-link">Terms Of Service</Link>
                 </li>
               </ul>
             </li>
