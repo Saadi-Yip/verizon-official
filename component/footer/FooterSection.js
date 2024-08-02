@@ -5,7 +5,14 @@ const FooterSection = () => {
     return (
         <footer id="footer-section">
             <div className="container">
+            <div className="footer-one">
+                    <div className='footer-one-disclaimer'>
+                        <h3 style={{ color: 'white' }}>Disclaimer</h3>
+                        <p>This is not an official website of verizon, but is the Official Site of verizonoffcial.com (Marketing Partner). We may send updates to the mobile number/email ID registered with us. The content is for information purposes only and does not constitute an offer to avail of any service. Prices mentioned are subject to change without notice and properties mentioned are subject to availability. Images are for representation purposes only. The logos and images used on this website are the exclusive property of their respective owners and are protected under applicable copyright laws. verizonoffcial.com does not claim any ownership or rights to these materials and they are used on this website solely for informational purposes.</p>
+                    </div>
+                </div>
                 <div className="footer-two">
+                
                     <div className="row justify-content-xl-between justify-content-center">
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="company-info">
@@ -28,15 +35,15 @@ const FooterSection = () => {
                             <div className="ba-footer-widget footer-two-widget">
                                 <h3 className="ba-footer-widget-title footer-two-widget__title">Help?</h3>
                                 <ul>
-                                    <Link href="policies/terms-of-service">
+                                    <li><Link href="policies/terms-of-service">
                                         Terms Of Service
-                                    </Link>
-                                    <Link href="pages/disclaimer">
+                                    </Link></li>
+                                    <li><Link href="pages/disclaimer">
                                         Disclaimer
-                                    </Link>
-                                    <Link href="policies/privacy-policy">
+                                    </Link></li>
+                                    <li><Link href="policies/privacy-policy">
                                         Privacy Policy
-                                    </Link>
+                                    </Link></li>
 
                                 </ul>
                             </div>

@@ -10,8 +10,8 @@ import TestimonialSection2 from '../testimonial/TestimonialSection2'
 const AboutMain = () => {
   return (
     <main>
-        <BreadcrumbSection title={"Internet"}/>
-        <AboutSection2/>
+        <BreadcrumbSection title={"About Us"}/>
+        {/* <AboutSection2/> */}
         <ServiceSection/>
         {/* <BrandSection/> */}
     </main>

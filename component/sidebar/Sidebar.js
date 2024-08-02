@@ -34,9 +34,7 @@ const Sidebar = () => {
                                 <Nav.Item>
                                     <Nav.Link className='mobile-nav-btns' eventKey="menu">Menu</Nav.Link>
                                 </Nav.Item>
-                                <Nav.Item>
-                                    <Nav.Link className='mobile-nav-btns' eventKey="info">Info</Nav.Link>
-                                </Nav.Item>
+                                
                             </Nav>
                             <Tab.Content className="ba-sidebar-content">
                                 <Tab.Pane eventKey="menu">

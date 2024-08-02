@@ -39,8 +39,8 @@ const HeaderArea2 = () => {
                 <div className="row align-items-center">
                     <div className="col-xxl-4 col-6 col-xl-4 col-lg-3 col-md-6">
                     <div className="ba-header-logo">
-                        <Link href="/Home">
-                            <img src="assets/img/logo/logo-3.png" alt=""/>
+                        <Link href="/">
+                            <img src="assets/img/logo/logo-white.png" alt=""/>
                         </Link>
                     </div>
                     </div>
