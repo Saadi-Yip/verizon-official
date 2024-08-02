@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./section2.module.css";
-
+import service3 from "../../../../public/assets/img/verizon/service-3.svg";
 const Section2 = () => {
   return (
     <div className={styles.main_div}>
@@ -30,10 +30,9 @@ const Section2 = () => {
               <div className={styles.content_box}>
                 <div className={styles.icon_wrapper}>
                   <img
+                    style={{ width: "100%", height: "auto" }}
                     src="/assets/img/verizon/features-bg.png"
                     alt="Verizon FiOS Internet"
-                    width={"100%"}
-                    height={"100%"}
                   />
                 </div>
                 <p>Unlock unlimited FiOS potential</p>
@@ -45,12 +44,11 @@ const Section2 = () => {
             </div>
             <div className="col-lg-3 col-md-6 col-sm-12">
               <div className={styles.content_box}>
-                <div className={styles.icon_wrapper} style={{ width: "60px" }}>
+                <div className={styles.icon_wrapper}>
                   <img
+                    style={{ width: "100%", height: "auto" }}
                     src="/assets/img/verizon/service-1.svg"
                     alt="Verizon FiOS Internet"
-                    width={"100%"}
-                    height={"100%"}
                   />
                 </div>
                 <p>Unlock unlimited FiOS potential</p>
@@ -62,12 +60,11 @@ const Section2 = () => {
             </div>
             <div className="col-lg-3 col-md-6 col-sm-12">
               <div className={styles.content_box}>
-                <div className={styles.icon_wrapper} style={{ width: "60px" }}>
+                <div className={styles.icon_wrapper}>
                   <img
-                    src="assets/img/verizon/service-3.svg"
+                    style={{ width: "100%", height: "auto" }}
+                    src="/assets/img/verizon/service-3.svg"
                     alt="Verizon FiOS Internet"
-                    width={"100%"}
-                    height={"100%"}
                   />
                 </div>
                 <p>Unlock unlimited FiOS potential</p>
@@ -79,12 +76,11 @@ const Section2 = () => {
             </div>
             <div className="col-lg-3 col-md-6 col-sm-12">
               <div className={styles.content_box}>
-                <div className={styles.icon_wrapper} style={{ width: "50px" }}>
+                <div className={styles.icon_wrapper}>
                   <img
+                    style={{ width: "100%", height: "auto" }}
                     src="/assets/img/verizon/service-1.svg"
                     alt="Verizon FiOS Internet"
-                    width={"100%"}
-                    height={"100%"}
                   />
                 </div>
                 <p>Unlock unlimited FiOS potential</p>
