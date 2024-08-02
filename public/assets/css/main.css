@@ -2056,6 +2056,7 @@ blockquote {
   height: 30px;
   width: 30px;
   line-height: 28px;
+  background-color: red;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .ba-header-right-actions .ba-header-sidebar-action {
