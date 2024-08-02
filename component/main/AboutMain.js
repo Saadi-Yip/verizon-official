@@ -1,0 +1,21 @@
+import React from 'react'
+import AboutSection2 from '@/component/about/AboutSection2'
+import BrandSection from '@/component/brand/BrandSection'
+import BreadcrumbSection from '@/component/breadcrumb/BreadcrumbSection'
+import ServiceSection from '@/component/service/ServiceSection'
+import TeamSection from '@/component/team/TeamSection'
+import VideoSection from '@/component/video/VideoSection'
+import TestimonialSection2 from '../testimonial/TestimonialSection2'
+
+const AboutMain = () => {
+  return (
+    <main>
+        <BreadcrumbSection title={"Internet"}/>
+        <AboutSection2/>
+        <ServiceSection/>
+        {/* <BrandSection/> */}
+    </main>
+  )
+}
+
+export default AboutMain
