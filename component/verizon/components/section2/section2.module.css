@@ -3,23 +3,28 @@
     "Helvetica", "Arial", sans-serif;
 }
 .paragraph{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 100px;
+
 }
 
-.paragraph p:nth-child(1){
+.paragraph1 p {
     font-size: 3.5rem;
     font-weight: 700;
     color: black;
-    width: 500px;
+
     line-height: 1; 
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 100px;
 }
-.paragraph p:nth-child(2){
+.paragraph2 p {
     font-size: 1.5rem;
     font-weight: 700;
     color: black;
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 100px;
 }
 .icon_wrapper{
     width: 50px;
