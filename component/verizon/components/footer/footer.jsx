@@ -12,7 +12,7 @@ const Footer = () => {
         <p>
           {" "}
           This is NOT an official website of Verizon but is the Official
-          Site of yourinternetprovider.us (Marketing Partner). We may send
+          Site of Verizonofficial.com (Marketing Partner). We may send
           updates to the mobile number/email ID registered with us. The content
           is for information purposes only and does not constitute an offer to
           avail of any service. Prices mentioned are subject to change without
@@ -24,14 +24,6 @@ const Footer = () => {
           this website solely for informational purposes.
         </p>
       </div>
-        <div className={styles.first_row}>
-          <p>Plans & Pricing</p>
-          <p>Customer Support</p>
-          <p>Online Bill Pay</p>
-          <p>Business</p>
-          <p>Manage Account</p>
-          <p>Order Online</p>
-        </div>
         <div className={styles.second_row}>
           <p>
             {" "}

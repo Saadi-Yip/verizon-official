@@ -12,9 +12,7 @@ const TvShowSection = () => {
               <h2 className="ba-section-title section-title">
                 Best Verizon Fios Internet
               </h2>
-              <p className="liveTV__txt">
-                Pay Your Verizon Internet and Cable Tv Bill Just Over The Phone
-              </p>
+              
               <p>Verizon 5G home internet has all of your internet needs covered. With our fast, simple, and reliable internet service at an affordable price you can do it all. Perks include</p>
             </div>
           </div>

@@ -1,11 +1,11 @@
 import React from "react";
-import Header from "../component/verizon/components/header/header";
-import Section2 from "../component/verizon/components/section2/section2";
-import Section3 from "../component/verizon/components/section3/section3";
-import Section4 from "../component/verizon/components/section4/section4";
-import Section5 from "../component/verizon/components/section5/section5";
-import Section6 from "../component/verizon/components/section6/section6";
-import Footer from "../component/verizon/components/footer/footer";
+import Header from "../../component/verizon/components/header/header";
+import Section2 from "../../component/verizon/components/section2/section2";
+import Section3 from "../../component/verizon/components/section3/section3";
+import Section4 from "../../component/verizon/components/section4/section4";
+import Section5 from "../../component/verizon/components/section5/section5";
+import Section6 from "../../component/verizon/components/section6/section6";
+import Footer from "../../component/verizon/components/footer/footer";
 // import PopUp from "../component/verizon/components";
 
 const Verizon = () => {

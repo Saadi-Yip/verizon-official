@@ -15,10 +15,10 @@ const NavSection = ({nav}) => {
                 <Link href="/homephone">HomePhone</Link>
             </li>
             <li>
-                <Link href="/disclaimer">Disclaimer</Link>
+                <Link href="pages/disclaimer">Disclaimer</Link>
             </li>
             <li>
-                <Link href="/verizon">Verizon</Link>
+                <Link href="pages/verizon">Verizon</Link>
             </li>
         </ul>
     </nav>
