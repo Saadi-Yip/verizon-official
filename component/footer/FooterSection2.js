@@ -94,9 +94,6 @@ const FooterSection = () => {
                         <div className="col-md-6">
                             <p className="ba-footer-copyright-text footer-three__copyright-text">Copyright &copy; 2022 All rights reserved.</p>
                         </div>
-                        <div className="col-md-6 d-flex justify-content-center justify-content-md-end">
-                            <img src="assets/img/payment-method/payment-method.png" alt="logo" className="payment-methods" />
-                        </div>
                     </div>
                 </div>
             </div>
