@@ -51,13 +51,13 @@ const MobileMenuSection = () => {
               </a>
               <ul className={`submenu ${isDropdownOpen.home ? 'd-block' : 'd-none'}`}>
                 <li>
-                  <Link href="/">Disclaimer</Link>
+                  <Link href="/pages/disclaimer">Disclaimer</Link>
                 </li>
                 <li>
                   <Link href="/pages/privacy-policy" className="nf-sub-nav-link">Privacy-policy</Link>
                 </li>
                 <li>
-                  <Link href="/pages/disclaimer" className="nf-nav-link">Terms Of Service</Link>
+                  <Link href="/pages/terms-of-services" className="nf-nav-link">Terms Of Service</Link>
                 </li>
               </ul>
             </li>

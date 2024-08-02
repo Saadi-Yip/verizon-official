@@ -1944,6 +1944,7 @@ blockquote {
 }
 .ba-header-right-link i {
   font-weight: 400;
+  color: white;
 }
 .ba-header-right-link .count {
   width: 25px;

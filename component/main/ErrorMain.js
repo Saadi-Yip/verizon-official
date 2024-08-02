@@ -5,7 +5,7 @@ import Link from 'next/link'
 const ErrorMain = () => {
     return (
         <main>
-            <BreadcrumbSection title={"Terms Of Services"} />
+            <BreadcrumbSection title={"privacy-Policy"} />
             <div className="ba-error-area pt-120 pb-120">
                 <div className="container">
                     <div className="ba-error-inner text-center">
