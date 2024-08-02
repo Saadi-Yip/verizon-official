@@ -9,7 +9,7 @@ const ErrorMain = () => {
             <div className="ba-error-area pt-120 pb-120">
                 <div className="container">
                     <div className="ba-error-inner text-center">
-                        <h2>Terms&Conditions</h2>
+                        <h2>privacy-Policy</h2>
                         <p>
                             <h3>Privacy Policy</h3>
                             Privacy Policy for VerizonOfficial.com
