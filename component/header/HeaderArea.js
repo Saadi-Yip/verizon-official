@@ -15,7 +15,7 @@ const HeaderArea = () => {
                         <div className="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-6"  >
                             <div className="ba-header-logo" >
                                 <Link href="/">
-                                    <img src="assets/img/logo/logo-3.png" alt="logo"/>
+                                    {/* <img src="assets/img/logo/logo-3.png" alt="logo"/> */}
                                 </Link>
                             </div>
                         </div>

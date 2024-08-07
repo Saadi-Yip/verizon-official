@@ -44,7 +44,8 @@ const Sidebar = () => {
                                         <div className="col-md-6 col-7">
                                             <div className="logo">
                                                 <a href="index.html">
-                                                    <img src="assets/img/logo/logo.png" alt="logo"/></a>
+                                                    {/* <img src="assets/img/logo/logo.png" alt="logo"/>*/}
+                                                    </a> 
                                             </div>
                                         </div>
                                         <div className="col-md-6 col-5">
@@ -70,7 +71,7 @@ const Sidebar = () => {
                                         <div className="col-md-6 col-7">
                                             <div className="logo">
                                                 <a href="index.html">
-                                                    <img src="assets/img/logo/logo.png" alt="logo"/>
+                                                    {/* <img src="assets/img/logo/logo.png" alt="logo"/> */}
                                                 </a>
                                             </div>
                                         </div>

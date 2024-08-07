@@ -16,7 +16,7 @@ const FooterSection = () => {
                     <div className="row justify-content-xl-between justify-content-center">
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="company-info">
-                                <img src="assets/img/logo/logo-3.png" alt="logo" className="footer-two__logo" />
+                                {/* <img src="assets/img/logo/logo-3.png" alt="logo" className="footer-two__logo" /> */}
 
                                 <div className="company-info__txt">
                                     <span>312 W 2ND ST STE#5083, CASPER WY 82601, USA </span>

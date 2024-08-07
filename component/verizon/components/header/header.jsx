@@ -6,7 +6,7 @@ const FrontierHeader = () => {
     <div className={styles.main_div}>
       <div className={styles.logo_div}>
         <div className={styles.img_wrapper}>
-          <img src="/assets/img/verizon/logo.png" alt="" width={"100%"} height={"100%"} />
+          {/* <img src="/assets/img/verizon/logo.png" alt="" width={"100%"} height={"100%"} /> */}
         </div>
       </div>
 

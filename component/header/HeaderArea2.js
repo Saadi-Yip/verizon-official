@@ -40,7 +40,7 @@ const HeaderArea2 = () => {
                     <div className="col-xxl-4 col-6 col-xl-4 col-lg-3 col-md-6">
                     <div className="ba-header-logo">
                         <Link href="/">
-                            <img src="https://dynl.mktgcdn.com/p/k1KaPgt4tI4Z32bUYs7n2aqnFbFu0mpBTsHV7qYkGTw/3392x1522.png" alt=""/>
+                            {/* <img src="https://dynl.mktgcdn.com/p/k1KaPgt4tI4Z32bUYs7n2aqnFbFu0mpBTsHV7qYkGTw/3392x1522.png" alt=""/> */}
                         </Link>
                     </div>
                     </div>
