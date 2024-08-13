@@ -12,8 +12,8 @@ const Footer = () => {
             </h1>
             <p>
               {" "}
-              This is NOT an official website of Verizon but is the Official
-              Site of Verizonofficial.com (Marketing Partner). We may send
+              This is NOT an official website of  but is the Official
+              Site of official.com (Marketing Partner). We may send
               updates to the mobile number/email ID registered with us. The
               content is for information purposes only and does not constitute
               an offer to avail of any service. Prices mentioned are subject to
@@ -21,7 +21,7 @@ const Footer = () => {
               availability. Images are for representation purposes only. The
               logos and images used on this website are the exclusive property
               of their respective owners and are protected under applicable
-              copyright laws. Verizon does not claim any ownership or rights to
+              copyright laws.  does not claim any ownership or rights to
               these materials and they are used on this website solely for
               informational purposes.
             </p>
@@ -29,15 +29,15 @@ const Footer = () => {
           <div className={styles.second_row}>
             <p>
               {" "}
-              [1] For Verizon internet customers new to YouTube TV. This YouTube
+              [1] For  internet customers new to YouTube TV. This YouTube
               TV discount is only open to participants in the United States who
-              have activated the offer from Verizon on or after October 1.
+              have activated the offer from  on or after October 1.
               Promotional offer only available to users who are not current
               YouTube TV subscribers, have not been YouTube TV subscribers or
-              participated in a YouTube TV trial before. If eligible: Verizon
+              participated in a YouTube TV trial before. If eligible: 
               Internet customers will receive the standard free trial, and then
               a discount of $10 per month for 12 months on the standard
-              subscription price; or Verizon Internet with current Verizon TV or
+              subscription price; or  Internet with current  TV or
               Fiber TV will receive the standard free trial, and then a discount
               of $15 per month for 12 months on the standard subscription price
               offered by YouTube TV. Standard subscription price is subject to
@@ -48,15 +48,15 @@ const Footer = () => {
               YouTube TV until the end of your YouTube TV billing period, but
               refunds and credits are not issued for partial billing periods.
               Offer valid for one redemption of YouTube TV discount per eligible
-              Verizon account. Eligible participants must use the activation
-              link provided by Verizon and complete activation through Google to
+               account. Eligible participants must use the activation
+              link provided by  and complete activation through Google to
               claim offer. Offer requires a Google account. Promotional value of
               offer is non-transferable, not for resale, non-redeemable for
               cash, and non-refundable. Must be 18 years or older. Free trial,
               offers, or promotional offers available only for YouTube TV Base
               Plan. Equipment, installation and other service charges, taxes and
-              fees extra. Verizon Internet account required. Offer and billing
-              subject to Verizon Terms and Conditions. Verizon reserves the
+              fees extra.  Internet account required. Offer and billing
+              subject to  Terms and Conditions.  reserves the
               right to change or cancel the offer at any time and for any
               reason. YouTube Paid Service Terms of Service also apply.
             </p>
@@ -72,7 +72,7 @@ const Footer = () => {
             </p>
 
             <p>
-              [3] Based on comparison of Verizon Fiber 5 Gig upload speed up to
+              [3] Based on comparison of  Fiber 5 Gig upload speed up to
               5000 Mbps versus advertised cable upload speeds for Xfinity 2 Gig
               plan of 100 Mbps, Spectrum Internet Gig plan of 35 Mbps, and
               Optimum 1 Gig Internet plan of 35 Mbps (excludes Optimum Fiber).

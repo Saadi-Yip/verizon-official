@@ -17,7 +17,7 @@ const HeaderTop = () => {
                     </span>
 
                     <span className="header-top-conatact__email">
-                        <a href="mailto:info@verizonofficial.com"><i className="fal fa-envelope"></i> info@verizonofficial.com</a>
+                        <a href="mailto:info@official.com"><i className="fal fa-envelope"></i> info@official.com</a>
                     </span>
                 </div>
             </div>

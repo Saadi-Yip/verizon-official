@@ -9,7 +9,7 @@ const Section5 = () => {
           <div className="col-lg-6 col-md-12 col-sm-12 ">
             <div className={styles.right_content}>
               <img
-                src="/assets/img/verizon/hero-1.jpg"
+                src="/assets/img//hero-1.jpg"
                 alt=""
                 width={"100%"}
                 height={"100%"}
@@ -19,10 +19,10 @@ const Section5 = () => {
           <div className="col-lg-6 col-md-12 col-sm-12  d-flex justify-content-center">
             <div className={styles.left_content}>
               <h1>
-                <b>Do more even faster on verizon</b>
+                <b>Do more even faster on </b>
               </h1>
               <p>
-                Verizon supercharges your internet so you can work, live and
+                 supercharges your internet so you can work, live and
                 play the way you want.
               </p>
             </div>

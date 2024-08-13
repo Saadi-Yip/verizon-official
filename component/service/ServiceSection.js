@@ -28,7 +28,7 @@ const ServiceSection = () => {
                                             <i className="fal fa-envelope"></i>
                                             </div>
                                             <div className="content">
-                                                <h5 className="title white-text">info@verizonofficial.com</h5>
+                                                <h5 className="title white-text">info@official.com</h5>
                                             </div>
                                         </li>
                                         <li className="wow fadeInUp" data-wow-delay=".5s">

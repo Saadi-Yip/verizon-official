@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./section2.module.css";
-import service3 from "../../../../public/assets/img/verizon/service-3.svg";
+import service3 from "../../../../public/assets/img//service-3.svg";
 const Section2 = () => {
   return (
     <div className={styles.main_div}>
@@ -9,15 +9,15 @@ const Section2 = () => {
           <div className="col-lg-6">
             <div className={styles.paragraph1}>
               <p>
-                Get ready for <br /> a Verizon
-                <br /> FiOS upgrade.
+                Get ready for <br /> a 
+                <br />  upgrade.
               </p>
             </div>
           </div>
           <div className="col-lg-6">
             <div className={styles.paragraph2}>
               <p>
-                Go further with Verizon FiOS Fiber <br />5 Gig Internet.
+                Go further with  Fiber <br />5 Gig Internet.
               </p>
             </div>
           </div>
@@ -31,14 +31,14 @@ const Section2 = () => {
                 <div className={styles.icon_wrapper}>
                   <img
                     style={{ width: "100%", height: "auto" }}
-                    src="/assets/img/verizon/features-bg.png"
-                    alt="Verizon FiOS Internet"
+                    src="/assets/img//features-bg.png"
+                    alt=" Internet"
                   />
                 </div>
-                <p>Unlock unlimited FiOS potential</p>
+                <p>Unlock unlimited  potential</p>
                 <p>
                   Stream, work, and game with no data caps or overage charges on
-                  Verizon FiOS.
+                  .
                 </p>
               </div>
             </div>
@@ -47,14 +47,14 @@ const Section2 = () => {
                 <div className={styles.icon_wrapper}>
                   <img
                     style={{ width: "100%", height: "auto" }}
-                    src="/assets/img/verizon/service-1.svg"
-                    alt="Verizon FiOS Internet"
+                    src="/assets/img//service-1.svg"
+                    alt=" Internet"
                   />
                 </div>
-                <p>Unlock unlimited FiOS potential</p>
+                <p>Unlock unlimited  potential</p>
                 <p>
                   Stream, work, and game with no data caps or overage charges on
-                  Verizon FiOS.
+                  .
                 </p>
               </div>
             </div>
@@ -63,14 +63,14 @@ const Section2 = () => {
                 <div className={styles.icon_wrapper}>
                   <img
                     style={{ width: "100%", height: "auto" }}
-                    src="/assets/img/verizon/service-3.svg"
-                    alt="Verizon FiOS Internet"
+                    src="/assets/img//service-3.svg"
+                    alt=" Internet"
                   />
                 </div>
-                <p>Unlock unlimited FiOS potential</p>
+                <p>Unlock unlimited  potential</p>
                 <p>
                   Stream, work, and game with no data caps or overage charges on
-                  Verizon FiOS.
+                  .
                 </p>
               </div>
             </div>
@@ -79,14 +79,14 @@ const Section2 = () => {
                 <div className={styles.icon_wrapper}>
                   <img
                     style={{ width: "100%", height: "auto" }}
-                    src="/assets/img/verizon/service-1.svg"
-                    alt="Verizon FiOS Internet"
+                    src="/assets/img//service-1.svg"
+                    alt=" Internet"
                   />
                 </div>
-                <p>Unlock unlimited FiOS potential</p>
+                <p>Unlock unlimited  potential</p>
                 <p>
                   Stream, work, and game with no data caps or overage charges on
-                  Verizon FiOS.
+                  .
                 </p>
               </div>
             </div>

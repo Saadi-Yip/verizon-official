@@ -16,7 +16,7 @@ const MovieSeciton = () => {
                 className="ba-movie-title wow fadeInUp movie-content__title"
                 data-wow-delay=".1s"
               >
-                <br /> FiOS TV Plans
+                <br />  TV Plans
               </h4>
               <p
                 className="wow fadeInUp movie-content__txt"
@@ -24,7 +24,7 @@ const MovieSeciton = () => {
               >
                Access More of Your Favorite Channels
                <br/>
-               Enjoy top-quality entertainment with Verizon FiOS, 
+               Enjoy top-quality entertainment with , 
                 <br/>
                 Starting at
               </p>

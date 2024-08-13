@@ -23,9 +23,9 @@ const HeaderArea2 = () => {
                             <i className="fal fa-phone-alt"></i>
                             <span>+1(855)-316-1700</span>
                         </a>
-                        <a href="mailto:info@verizonofficial.com" className="ba-header-top-list">
+                        <a href="mailto:info@official.com" className="ba-header-top-list">
                             <i className="fal fa-envelope"></i>
-                            <span>info@verizonofficial.com</span>
+                            <span>info@official.com</span>
                         </a>
                     </div>
                     </div>
