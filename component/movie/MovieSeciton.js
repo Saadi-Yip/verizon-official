@@ -16,7 +16,7 @@ const MovieSeciton = () => {
                 className="ba-movie-title wow fadeInUp movie-content__title"
                 data-wow-delay=".1s"
               >
-                <br /> FiOS TV Plans
+                <br />  TV Plans
               </h4>
               <p
                 className="wow fadeInUp movie-content__txt"

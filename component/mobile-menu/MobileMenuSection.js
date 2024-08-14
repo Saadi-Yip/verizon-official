@@ -65,7 +65,7 @@ const MobileMenuSection = () => {
               <Link href="/about" className="nf-nav-link">About Us</Link>
             </li>
             <li>
-              <Link href="/pages/verizon" className="nf-nav-link">Verizon</Link>
+              <Link href="/pages/verizon" className="nf-nav-link">internet-2</Link>
             </li>
           </ul>
         </nav>

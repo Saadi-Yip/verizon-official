@@ -13,7 +13,7 @@ const TvShowSection = () => {
                 Best  Internet 
               </h2>
               
-              <p>Verizon 5G home internet has all of your internet needs covered. With our fast, simple, and reliable internet service at an affordable price you can do it all. Perks include</p>
+              <p> home internet has all of your internet needs covered. With our fast, simple, and reliable internet service at an affordable price you can do it all. Perks include</p>
             </div>
           </div>
         </div>

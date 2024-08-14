@@ -30,7 +30,7 @@ const NavSection = ({ nav }) => {
                     <Link href="/about">About Us</Link>
                 </li>
                 <li>
-                    <Link href="pages/verizon">Verizon</Link>
+                    <Link href="pages/verizon">internet-2</Link>
                 </li>
             </ul>
         </nav>

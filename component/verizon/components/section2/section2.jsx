@@ -10,7 +10,7 @@ const Section2 = () => {
             <div className={styles.paragraph1}>
               <p>
                 Get ready for <br /> a
-                <br /> FiOS upgrade.
+                <br /> upgrade.
               </p>
             </div>
           </div>
