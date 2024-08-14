@@ -10,10 +10,10 @@ const TvShowSection = () => {
           <div className="col-lg-6">
             <div className="section-heading text-center mb-60">
               <h2 className="ba-section-title section-title">
-                Best Verizon Fios Internet
+                Best  Internet
               </h2>
               
-              <p>Verizon 5G home internet has all of your internet needs covered. With our fast, simple, and reliable internet service at an affordable price you can do it all. Perks include</p>
+              <p> 5G home internet has all of your internet needs covered. With our fast, simple, and reliable internet service at an affordable price you can do it all. Perks include</p>
             </div>
           </div>
         </div>

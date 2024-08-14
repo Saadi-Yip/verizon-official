@@ -12,7 +12,7 @@ const Section3 = () => {
                 <b>Save $120 on YouTube TV</b>
               </h1>
               <p>
-                Get your favorite channels with Verizon® Fiber and YouTube TV.
+                Get your favorite channels with  Fiber and YouTube TV.
                 Save $10/mo. on your first year of YouTube TV. Watch 100+
                 channels of live sports, news and shows on our ultra-fast fiber
                 internet.Tooltip Icon

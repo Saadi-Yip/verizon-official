@@ -22,14 +22,14 @@ const AboutSection = () => {
           <div className="col-xl-6 col-lg-11">
             <div className="about-content">
               <h6 className="ba-section-subtitle section-subtitle">
-                Verizon Fios Internet and Cable TV
+                Internet and Cable TV
               </h6>
               <h2 className="ba-section-title section-title">
-                We Provide Best Broadband & Verizon Internet Service Provider
+                We Provide Best Broadband &  Internet Service Provider
               </h2>
 
               <p className="about__txt">
-                We pride ourselves on being the leading provider of broadband and internet services, including Verizon FiOS, offering unparalleled connectivity solutions tailored to meet your needs. Our commitment to delivering exceptional service
+                We pride ourselves on being the leading provider of broadband and internet services, including offering unparalleled connectivity solutions tailored to meet your needs. Our commitment to delivering exceptional service
               </p>
 
               <div className="highlighted d-flex align-items-center">

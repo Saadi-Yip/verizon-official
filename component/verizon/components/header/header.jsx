@@ -12,9 +12,9 @@ const FrontierHeader = () => {
 
       <div className={styles.slider}>
         <div className={styles.slider_text}>
-          <h2>Verizon Internet: Reliable and Fast</h2>
+          <h2> Internet: Reliable and Fast</h2>
           <p>
-            Verizon's internet service offers unparalleled reliability and
+             internet service offers unparalleled reliability and
             speed, ensuring you stay connected without interruptions. Experience
             the power of fiber-optic technology for seamless browsing and
             streaming.
@@ -25,7 +25,7 @@ const FrontierHeader = () => {
         <h1>Limited Time Offer</h1>
         <p>
           Save $15/mo. on Fiber 500 and 1 Gig. Plus, free expert installation
-          included. only on "Verizon"
+          included. only on 
         </p>
       </div>
     </div>

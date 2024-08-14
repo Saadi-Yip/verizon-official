@@ -24,7 +24,7 @@ const MovieSeciton = () => {
               >
                Access More of Your Favorite Channels
                <br/>
-               Enjoy top-quality entertainment with Verizon FiOS, 
+               Enjoy top-quality entertainment with  
                 <br/>
                 Starting at
               </p>

@@ -16,7 +16,7 @@ const Section6 = () => {
         </div>
         <div className={styles.limited_time}>
           <p>
-            Ready to find internet plans available on verizon in your
+            Ready to find internet plans available on in your
             neighborhood?
           </p>
         </div>

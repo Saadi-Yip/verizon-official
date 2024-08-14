@@ -9,7 +9,7 @@ const PackageDetail = ({ speed }) => {
                         Manage Current Plan
                     </h5>
                     <p className="package-details__txt">
-                        Easily manage your current Verizon FiOS plan with our user-friendly tools designed to give you full control over your internet experience. Whether you need to upgrade your speed, change your service package, or review your billing details. With Verizon FiOS
+                        Easily manage your current  plan with our user-friendly tools designed to give you full control over your internet experience. Whether you need to upgrade your speed, change your service package, or review your billing details. With 
                     </p>
 
                     <div className="package-details__features-container d-flex">

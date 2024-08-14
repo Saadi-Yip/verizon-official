@@ -9,7 +9,7 @@ const Section2 = () => {
           <div className="col-lg-6">
             <div className={styles.paragraph1}>
               <p>
-                Get ready for <br /> a Verizon
+                Get ready for <br /> a
                 <br /> FiOS upgrade.
               </p>
             </div>
@@ -17,7 +17,7 @@ const Section2 = () => {
           <div className="col-lg-6">
             <div className={styles.paragraph2}>
               <p>
-                Go further with Verizon FiOS Fiber <br />5 Gig Internet.
+                Go further with  Fiber <br />5 Gig Internet.
               </p>
             </div>
           </div>
@@ -35,10 +35,10 @@ const Section2 = () => {
                     alt="Verizon FiOS Internet"
                   />
                 </div>
-                <p>Unlock unlimited FiOS potential</p>
+                <p>Unlock unlimited potential</p>
                 <p>
                   Stream, work, and game with no data caps or overage charges on
-                  Verizon FiOS.
+
                 </p>
               </div>
             </div>
@@ -51,10 +51,10 @@ const Section2 = () => {
                     alt="Verizon FiOS Internet"
                   />
                 </div>
-                <p>Unlock unlimited FiOS potential</p>
+                <p>Unlock unlimited  potential</p>
                 <p>
                   Stream, work, and game with no data caps or overage charges on
-                  Verizon FiOS.
+
                 </p>
               </div>
             </div>
@@ -67,10 +67,10 @@ const Section2 = () => {
                     alt="Verizon FiOS Internet"
                   />
                 </div>
-                <p>Unlock unlimited FiOS potential</p>
+                <p>Unlock unlimited potential</p>
                 <p>
                   Stream, work, and game with no data caps or overage charges on
-                  Verizon FiOS.
+
                 </p>
               </div>
             </div>
@@ -83,10 +83,10 @@ const Section2 = () => {
                     alt="Verizon FiOS Internet"
                   />
                 </div>
-                <p>Unlock unlimited FiOS potential</p>
+                <p>Unlock unlimited potential</p>
                 <p>
                   Stream, work, and game with no data caps or overage charges on
-                  Verizon FiOS.
+
                 </p>
               </div>
             </div>

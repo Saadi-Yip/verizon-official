@@ -36,9 +36,9 @@ const TestimonialSlider = () => {
                     <div className="single-testimonial">
 
                         <p className="single-testimonial__txt">
-                            <h4>200 Mbps Internet with Verizon FiOS</h4>
+                            <h4>200 Mbps Internet with </h4>
                             <ul>
-                                <li>Stream and download movies, shows, and photos effortlessly with Verizon FiOS' lightning-fast 200 Mbps internet. Enjoy seamless connectivity and high-speed performance.</li>
+                                <li>Stream and download movies, shows, and photos effortlessly with  lightning-fast 200 Mbps internet. Enjoy seamless connectivity and high-speed performance.</li>
                                 <li>Only $39.99 per Month</li>
                                 <li>With Auto Pay, plus taxes and equipment charges.</li>
                                 <li>Disney+ Included for 12 Months</li>

@@ -6,7 +6,7 @@ const BannerSection = () => {
         <div className="container">
             <div className="row">
                 <div className="col-xl-10 col-lg-8">
-                    <h1 className="ba-hero-title index-1-hero-title">Helping you to the best verizon fios internet and cable TV plans near you.</h1>
+                    <h1 className="ba-hero-title index-1-hero-title">Helping you to the best  internet and cable TV plans near you.</h1>
 
                     <p className="hero-txt">+1(855)-316-1700</p>
 
