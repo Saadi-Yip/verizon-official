@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./section2.module.css";
-import service3 from "../../../../public/assets/img//service-3.svg";
+import service3 from "../../../../public/assets/img/verizon/service-3.svg";
 const Section2 = () => {
   return (
     <div className={styles.main_div}>
